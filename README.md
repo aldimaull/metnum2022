@@ -6,3 +6,4 @@ Anggota:
 3. Dwi Putra Setiadi
 4. Eka Tiara Nur Fitriana
 5. Karina Aulia
+6. Oktavian Dwi Santosa
