@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# No. 3"
+    "# Akar Persamaan"
    ]
   },
   {
@@ -23,7 +23,7 @@
     }
    ],
    "source": [
-    "# Metode Newton-Raphson\n",
+    "### Metode Newton-Raphson\n",
     "\n",
     "import numpy as np\n",
     "\n",
